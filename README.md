@@ -1,2 +1,0 @@
-# mdl2
-solution
